@@ -1,2 +1,2 @@
 
-#Notes making Rest API connected React Js.
+# DRF Rest API connected with React JS.
